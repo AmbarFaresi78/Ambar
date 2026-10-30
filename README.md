@@ -19,7 +19,7 @@ Mouse:Görüş sağla
 ##Bu projede kullanılan uygulamalar
 2D Modelleme geliştirilmesi için Blender Kullanılmıştır.
 Oyunun Genel kodlaması ve tasarımı ve ayrıca oyun motoru için Unity kullanılmıştır.
-oyunun kodlamasında C++ kullanılmıştır 
+oyunun kodlamasında C++ kullanılmıştır. 
 ---------------------------------------
 ##Takım üyeleri
 Miraç Mehmet Karakuzulu
